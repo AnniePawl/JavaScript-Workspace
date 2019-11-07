@@ -6,6 +6,7 @@ String.prototype.capitalizeFirst = function () {
 }
 console.log("good morning".capitalizeFirst())
 
+
 // Long Method
 String.prototype.capitalizeFirst2 = function () {
   // Variable to hold character at index 0
@@ -17,8 +18,8 @@ String.prototype.capitalizeFirst2 = function () {
   // Variable to hold joined characters 
   const joined = UpperFirst + leftOverCharacters
   return joined
-
 }
+
 console.log("good night".capitalizeFirst2())
 
 
