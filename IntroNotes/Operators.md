@@ -25,8 +25,7 @@ alert(+ ""); //0
 alert(6 / "3"); //2, "3" converted to string number 3
 alert("2" * "3") //6;
 ``` 
--
- More on **Binary Plus**
+- More on **Binary Plus**
 ```javascript 
 let apples = "2"; 
 let oranges = "3"; 
