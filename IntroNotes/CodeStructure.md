@@ -1,4 +1,4 @@
-# statements
+## Statements
 - Syntax constructs and commands that perform actions 
 - You can have as many statements as you want
 - Statements separted with semicolon
