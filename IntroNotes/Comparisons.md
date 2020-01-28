@@ -19,10 +19,14 @@ alert('Bee' > 'Be'); // true, compares letter by letter, longer string greater
 ```
 
 ### Comparing numbers and strings 
-JS will convert all values to numbers for comparisons 
+JS will convert all values to numbers if number present
 ```javascript
 alert('2' > 1) // true, string '2' converted to num
 ```
+- If both numbers represented as string, dictionary comparison applies 
+```javascript 
+alert("2" > "12") //true, 2 greater than 1 
+``` 
 
 ### Strict Comparisons ====
 Checks equality **without type conversion**
