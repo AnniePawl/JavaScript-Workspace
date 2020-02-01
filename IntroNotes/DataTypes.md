@@ -39,7 +39,7 @@ Backticks: `Hello`.
 ```javascript 
 let myName = "Anna"
 // embed a variable 
-alert(`Hello, ${myName}`)
+alert (`Hello, ${name}`)
 ```
 
 ## Boolean 
