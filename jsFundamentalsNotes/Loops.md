@@ -58,7 +58,8 @@ alert('Sum: ' + sum)
 
 ### Continue to Next Iteration
 `continue` directive is lighter version of `break`. <br>
-Stops current iteration and forces loop to start new one
+Stops current iteration and forces loop to start new one<br>
+Also helps decrease nesting
 ```javascript
 for (let i = 0; i < 10; i ++) {
   // if true, skip remaining body
